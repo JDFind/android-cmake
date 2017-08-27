@@ -1173,9 +1173,7 @@ endif()
 remove_definitions( -DANDROID )
 add_definitions( -DANDROID )
 
-if( CMAKE_VERSION VERSION_GREATER "3.0.0" )
- set( CMAKE_SYSROOT ${ANDROID_SYSROOT} )
-elseif( ANDROID_SYSROOT MATCHES "[ ;\"]" )
+if( ANDROID_SYSROOT MATCHES "[ ;\"]" )
  if( CMAKE_HOST_WIN32 )
   # try to convert path to 8.3 form
   file( WRITE "${CMAKE_BINARY_DIR}${CMAKE_FILES_DIRECTORY}/cvt83.cmd" "@echo %~s1" )
