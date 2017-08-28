@@ -1,3 +1,6 @@
+# What's different?
+In this fork I cherry-picked some commits that improved/ fixed issues with the original code.
+
 # android-cmake
 
 CMake is great, and so is Android. This is a collection of CMake scripts that may be useful to the Android NDK community. It is based on experience from porting OpenCV library to Android: http://opencv.org/platforms/android.html
