@@ -5,103 +5,103 @@
 * http://dl.google.com/android/ndk/android-ndk-1.5_r1-darwin-x86.zip
 * http://dl.google.com/android/ndk/android-ndk-1.5_r1-linux-x86.zip
 
-============== r2 ==============
+============== r2 ============== (deprecated)
 
 * http://dl.google.com/android/ndk/android-ndk-1.6_r1-windows.zip
 * http://dl.google.com/android/ndk/android-ndk-1.6_r1-darwin-x86.zip
 * http://dl.google.com/android/ndk/android-ndk-1.6_r1-linux-x86.zip
 
-============== r3 ==============
+============== r3 ============== (deprecated)
 
 * http://dl.google.com/android/ndk/android-ndk-r3-windows.zip
 * http://dl.google.com/android/ndk/android-ndk-r3-darwin-x86.zip
 * http://dl.google.com/android/ndk/android-ndk-r3-linux-x86.zip
 
-============== r4 ==============
+============== r4 ============== (deprecated)
 
 * http://dl.google.com/android/ndk/android-ndk-r4-windows.zip
 * http://dl.google.com/android/ndk/android-ndk-r4-darwin-x86.zip
 * http://dl.google.com/android/ndk/android-ndk-r4-linux-x86.zip
 
-============== r4b ==============
+============== r4b ============== (deprecated)
 
 * http://dl.google.com/android/ndk/android-ndk-r4b-windows.zip
 * http://dl.google.com/android/ndk/android-ndk-r4b-darwin-x86.zip
 * http://dl.google.com/android/ndk/android-ndk-r4b-linux-x86.zip
 
-============== r5 ==============
+============== r5 ============== (deprecated)
 
 * http://dl.google.com/android/ndk/android-ndk-r5-windows.zip
 * http://dl.google.com/android/ndk/android-ndk-r5-darwin-x86.tar.bz2
 * http://dl.google.com/android/ndk/android-ndk-r5-linux-x86.tar.bz2
 
-============== r5b ==============
+============== r5b ============== (deprecated)
 
 * http://dl.google.com/android/ndk/android-ndk-r5b-windows.zip
 * http://dl.google.com/android/ndk/android-ndk-r5b-darwin-x86.tar.bz2
 * http://dl.google.com/android/ndk/android-ndk-r5b-linux-x86.tar.bz2
 
-============== r5c ==============
+============== r5c ============== (deprecated)
 
 * http://dl.google.com/android/ndk/android-ndk-r5c-windows.zip
 * http://dl.google.com/android/ndk/android-ndk-r5c-darwin-x86.tar.bz2
 * http://dl.google.com/android/ndk/android-ndk-r5c-linux-x86.tar.bz2
 
-============== r6 ==============
+============== r6 ============== (deprecated)
 
 * http://dl.google.com/android/ndk/android-ndk-r6-windows.zip
 * http://dl.google.com/android/ndk/android-ndk-r6-darwin-x86.tar.bz2
 * http://dl.google.com/android/ndk/android-ndk-r6-linux-x86.tar.bz2
 
-============== r6b ==============
+============== r6b ============== (deprecated)
 
 * http://dl.google.com/android/ndk/android-ndk-r6b-windows.zip
 * http://dl.google.com/android/ndk/android-ndk-r6b-darwin-x86.tar.bz2
 * http://dl.google.com/android/ndk/android-ndk-r6b-linux-x86.tar.bz2
 
-============== r7 ==============
+============== r7 ============== (deprecated)
 
 * http://dl.google.com/android/ndk/android-ndk-r7-windows.zip
 * http://dl.google.com/android/ndk/android-ndk-r7-darwin-x86.tar.bz2
 * http://dl.google.com/android/ndk/android-ndk-r7-linux-x86.tar.bz2
 
-============== r7b ==============
+============== r7b ============== (deprecated)
 
 * http://dl.google.com/android/ndk/android-ndk-r7b-windows.zip
 * http://dl.google.com/android/ndk/android-ndk-r7b-darwin-x86.tar.bz2
 * http://dl.google.com/android/ndk/android-ndk-r7b-linux-x86.tar.bz2
 
-============== r7c ==============
+============== r7c ============== (deprecated)
 
 * http://dl.google.com/android/ndk/android-ndk-r7c-windows.zip
 * http://dl.google.com/android/ndk/android-ndk-r7c-darwin-x86.tar.bz2
 * http://dl.google.com/android/ndk/android-ndk-r7c-linux-x86.tar.bz2
 
-============== r8 ==============
+============== r8 ============== (deprecated)
 
 * http://dl.google.com/android/ndk/android-ndk-r8-windows.zip
 * http://dl.google.com/android/ndk/android-ndk-r8-darwin-x86.tar.bz2
 * http://dl.google.com/android/ndk/android-ndk-r8-linux-x86.tar.bz2
 
-============== r8b ==============
+============== r8b ============== (deprecated)
 
 * http://dl.google.com/android/ndk/android-ndk-r8b-windows.zip
 * http://dl.google.com/android/ndk/android-ndk-r8b-darwin-x86.tar.bz2
 * http://dl.google.com/android/ndk/android-ndk-r8b-linux-x86.tar.bz2
 
-============== r8c ==============
+============== r8c ============== (deprecated)
 
 * http://dl.google.com/android/ndk/android-ndk-r8c-windows.zip
 * http://dl.google.com/android/ndk/android-ndk-r8c-darwin-x86.tar.bz2
 * http://dl.google.com/android/ndk/android-ndk-r8c-linux-x86.tar.bz2
 
-============== r8d ==============
+============== r8d ============== (deprecated)
 
 * http://dl.google.com/android/ndk/android-ndk-r8d-windows.zip
 * http://dl.google.com/android/ndk/android-ndk-r8d-darwin-x86.tar.bz2
 * http://dl.google.com/android/ndk/android-ndk-r8d-linux-x86.tar.bz2
 
-============== r8e ==============
+============== r8e ============== (deprecated)
 
 * http://dl.google.com/android/ndk/android-ndk-r8e-windows-x86.zip
 * http://dl.google.com/android/ndk/android-ndk-r8e-windows-x86_64.zip
@@ -110,7 +110,7 @@
 * http://dl.google.com/android/ndk/android-ndk-r8e-linux-x86.tar.bz2
 * http://dl.google.com/android/ndk/android-ndk-r8e-linux-x86_64.tar.bz2
 
-============== r9 ==============
+============== r9 ============== (deprecated)
 
 * http://dl.google.com/android/ndk/android-ndk-r9-windows-x86.zip
 * http://dl.google.com/android/ndk/android-ndk-r9-windows-x86-legacy-toolchains.zip
@@ -125,7 +125,7 @@
 * http://dl.google.com/android/ndk/android-ndk-r9-linux-x86_64.tar.bz2
 * http://dl.google.com/android/ndk/android-ndk-r9-linux-x86_64-legacy-toolchains.tar.bz2
 
-============== r9b ==============
+============== r9b ============== (deprecated)
 
 * http://dl.google.com/android/ndk/android-ndk-r9b-windows-x86.zip
 * http://dl.google.com/android/ndk/android-ndk-r9b-windows-x86-legacy-toolchains.zip
@@ -140,7 +140,7 @@
 * http://dl.google.com/android/ndk/android-ndk-r9b-linux-x86_64.tar.bz2
 * http://dl.google.com/android/ndk/android-ndk-r9b-linux-x86_64-legacy-toolchains.tar.bz2
 
-============== r9c ==============
+============== r9c ============== (deprecated)
 
 * http://dl.google.com/android/ndk/android-ndk-r9c-windows-x86.zip
 * http://dl.google.com/android/ndk/android-ndk-r9c-windows-x86_64.zip
