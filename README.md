@@ -1,9 +1,10 @@
 # What's different?
-In this fork I cherry-picked some commits that improved/ fixed issues with the original code.
+In this fork I cherry-picked some commits that improve/ fix issues with the original code.
+I also made a few minor changes. Feel free to submit issues or create pull requests.  
 
 # android-cmake
 
-CMake is great, and so is Android. This is a collection of CMake scripts that may be useful to the Android NDK community. It is based on experience from porting OpenCV library to Android: http://opencv.org/platforms/android.html
+CMake is great, and so is Android. This is a collection of CMake scripts that may be useful to the Android NDK community. It is based on experience from porting OpenCV library to Android: https://opencv.org/platforms/android/
 
 Main goal is to share these scripts so that devs that use CMake as their build system may easily compile native code for Android.
 
@@ -33,8 +34,8 @@ So if you have installed the NDK as `~/android-ndk-r10d` then _android-cmake_ wi
 
 To build a cmake-based C/C++ project for Android you need:
 
-* Android NDK (>= r5) http://developer.android.com/tools/sdk/ndk/index.html
-* CMake (>= v2.6.3, >= v2.8.9 recommended) http://www.cmake.org/download
+* Android NDK (>= r9d) https://developer.android.com/ndk/index.html
+* CMake (>= v2.6.3, >= v2.8.9 recommended) https://cmake.org/download/
 
 The _android-cmake_ is also capable to build with NDK from AOSP or Linaro Android source tree, but you may be required to manually specify path to `libm` binary to link with.
 
@@ -67,9 +68,9 @@ The following features of _ndk-build_ are not supported by the _android-cmake_ y
 Similarly to the NDK build system _android-cmake_ allows to select between several compiler toolchains and target platforms. Most of the options can be set either as cmake arguments: `-D<NAME>=<VALUE>` or as environment variables:
 
 * **ANDROID_NDK** - path to the Android NDK. If not set then _android-cmake_ will search for the most recent version of supported NDK in commonly used locations;
-* **ANDROID_ABI** - specifies the target Application Binary Interface (ABI). This option nearly matches to the APP_ABI variable used by ndk-build tool from Android NDK. If not specified then set to `armeabi-v7a`. Possible target names are:
+* **ANDROID_ABI** - specifies the target Application Binary Interface (ABI). This option nearly matches to the APP_ABI variable used by ndk-build tool from Android NDK. If not specified, the default value is **`armeabi-v7a`**. Possible target names are:
     * `armeabi` - ARMv5TE based CPU with software floating point operations;
-    * **`armeabi-v7a`** - ARMv7 based devices with hardware FPU instructions (VFPv3_D16);
+    * `armeabi-v7a` - ARMv7 based devices with hardware FPU instructions (VFPv3_D16);
     * `armeabi-v7a with NEON` - same as armeabi-v7a, but sets NEON as floating-point unit;
     * `armeabi-v7a with VFPV3` - same as armeabi-v7a, but sets VFPv3_D32 as floating-point unit;
     * `armeabi-v6 with VFP` - tuned for ARMv6 processors having VFP;
@@ -78,9 +79,8 @@ Similarly to the NDK build system _android-cmake_ allows to select between sever
     * `arm64-v8a` - ARMv8 AArch64 instruction set - only for NDK r10 and newer
     * `x86_64` - Intel64 instruction set (r1) - only for NDK r10 and newer
     * `mips64` - MIPS64 instruction set (r6) - only for NDK r10 and newer
-* **ANDROID_NATIVE_API_LEVEL** - level of android API to build for. Can be set either to full name (example: `android-8`) or a numeric value (example: `17`). The default API level depends on the target ABI:
-    * `android-8` for ARM;
-    * `android-9` for x86 and MIPS;
+* **ANDROID_NATIVE_API_LEVEL** - level of android API to build for. Can be set either to full name (example: `android-14`) or a numeric value (example: `17`). The default API level depends on the target ABI:
+    * `android-14` for ARM, x86 and MIPS;
     * `android-21` for 64-bit ABIs.
 
     Building for `android-L` is possible only when it is explicitly selected.
@@ -226,7 +226,7 @@ To build with Ninja you need:
 But if you still want to stick to old make then:
 
 * Get a Windows port of GNU Make:
-    * Android NDK r7 (and newer) already has `make.exe` on board;
+    * Android NDK r9d (and newer) already has `make.exe` on board;
     * `mingw-make` should work as fine;
     * Download some other port. For example, this one: http://gnuwin32.sourceforge.net/packages/make.htm.
 * Add path to your `make.exe` to system PATH or always use full path;
