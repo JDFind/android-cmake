@@ -209,3 +209,82 @@
 * http://dl.google.com/android/ndk/android-ndk-r10d-darwin-x86_64.bin
 * http://dl.google.com/android/ndk/android-ndk-r10d-linux-x86.bin
 * http://dl.google.com/android/ndk/android-ndk-r10d-linux-x86_64.bin
+
+============== r10e ==============
+
+* http://dl.google.com/android/ndk/android-ndk-r10e-windows-x86.exe
+* http://dl.google.com/android/ndk/android-ndk-r10e-windows-x86_64.exe
+* http://dl.google.com/android/repository/android-ndk-r10e-darwin-x86_64.zip
+* http://dl.google.com/android/ndk/android-ndk-r10e-linux-x86.bin
+* http://dl.google.com/android/ndk/android-ndk-r10e-linux-x86_64.bin
+
+============== r11 ==============
+
+* http://dl.google.com/android/repository/android-ndk-r11-windows-x86.zip
+* http://dl.google.com/android/repository/android-ndk-r11-windows-x86_64.zip
+* http://dl.google.com/android/repository/android-ndk-r11-darwin-x86_64.zip
+* http://dl.google.com/android/repository/android-ndk-r11-linux-x86_64.zip
+
+============== r11b ==============
+
+* http://dl.google.com/android/repository/android-ndk-r11b-windows-x86.zip
+* http://dl.google.com/android/repository/android-ndk-r11b-windows-x86_64.zip
+* http://dl.google.com/android/repository/android-ndk-r11b-darwin-x86_64.zip
+* http://dl.google.com/android/repository/android-ndk-r11b-linux-x86_64.zip
+
+
+============== r11c ==============
+
+* http://dl.google.com/android/repository/android-ndk-r11c-windows-x86.zip
+* http://dl.google.com/android/repository/android-ndk-r11c-windows-x86_64.zip
+* http://dl.google.com/android/repository/android-ndk-r11c-darwin-x86_64.zip
+* http://dl.google.com/android/repository/android-ndk-r11c-linux-x86_64.zip
+
+
+============== r12 ==============
+
+* http://dl.google.com/android/repository/android-ndk-r12-windows-x86.zip
+* http://dl.google.com/android/repository/android-ndk-r12-windows-x86_64.zip
+* http://dl.google.com/android/repository/android-ndk-r12-darwin-x86_64.zip
+* http://dl.google.com/android/repository/android-ndk-r12-linux-x86_64.zip
+
+
+============== r12b ==============
+
+* http://dl.google.com/android/repository/android-ndk-r12b-windows-x86.zip
+* http://dl.google.com/android/repository/android-ndk-r12b-windows-x86_64.zip
+* http://dl.google.com/android/repository/android-ndk-r12b-darwin-x86_64.zip
+* http://dl.google.com/android/repository/android-ndk-r12b-linux-x86_64.zip
+
+
+============== r13b ==============
+
+* http://dl.google.com/android/repository/android-ndk-r13b-windows-x86.zip
+* http://dl.google.com/android/repository/android-ndk-r13b-windows-x86_64.zip
+* http://dl.google.com/android/repository/android-ndk-r13b-darwin-x86_64.zip
+* http://dl.google.com/android/repository/android-ndk-r13b-linux-x86_64.zip
+
+
+============== r14b ==============
+
+* http://dl.google.com/android/repository/android-ndk-r14b-windows-x86.zip
+* http://dl.google.com/android/repository/android-ndk-r14b-windows-x86_64.zip
+* http://dl.google.com/android/repository/android-ndk-r14b-darwin-x86_64.zip
+* http://dl.google.com/android/repository/android-ndk-r14b-linux-x86_64.zip
+
+
+============== r15c ==============
+
+* http://dl.google.com/android/repository/android-ndk-r15c-windows-x86.zip
+* http://dl.google.com/android/repository/android-ndk-r15c-windows-x86_64.zip
+* http://dl.google.com/android/repository/android-ndk-r15c-darwin-x86_64.zip
+* http://dl.google.com/android/repository/android-ndk-r15c-linux-x86_64.zip
+
+
+============== r16b ==============
+
+* http://dl.google.com/android/repository/android-ndk-r16b-windows-x86.zip
+* http://dl.google.com/android/repository/android-ndk-r16b-windows-x86_64.zip
+* http://dl.google.com/android/repository/android-ndk-r16b-darwin-x86_64.zip
+* http://dl.google.com/android/repository/android-ndk-r16b-linux-x86_64.zip
+
